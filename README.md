@@ -1,10 +1,10 @@
 # licenseplate-recognition
 This project demonstrates how a license plate of vehicles can be detected.
 
-# Prerequisites
+## Prerequisites
 To be able to run the project, Python 3 with OpenCV, Numpy and Pytesseract libraries must be installed.
 
-# Download and Run
+## Download and Run
 git clone https://github.com/canozcivelek/licenseplate-recognition.git
 
 cd licenseplate-recognition
